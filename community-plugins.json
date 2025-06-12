@@ -17358,5 +17358,10 @@
     "author": "ZigHolding",
     "description": "Sync notes or plugins between vaults.",
     "repo": "zigholding/obsidian-notesync-plugin"
-  }
+  },
+	"id": "random-note-within-folder",
+	"name": "Random Note within Folder",
+	"author": "albertsastre",
+	"description": "Creates a hotkey to open a random note from within the current folder.",
+	"repo": "albertsastre/obsidian-random-note-within-folder"
 ]
